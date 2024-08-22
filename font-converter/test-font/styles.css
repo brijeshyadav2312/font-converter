@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'MyCustomFont';
+    src: url('../font-converter/dist/fonts/Bungee_Tint/bungeetint-regular/src/fonts/Bungee_Tint/BungeeTint-Regular.ttf') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+
+body {
+    font-family: 'MyCustomFont', sans-serif;
+  }
+  
+  h1 {
+    font-family: 'MyCustomFont', serif;
+  }
+  
